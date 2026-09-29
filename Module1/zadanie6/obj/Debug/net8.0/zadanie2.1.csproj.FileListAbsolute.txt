@@ -1,0 +1,15 @@
+D:\!Практика по программированию\praktika\Module1\zadanie6\bin\Debug\net8.0\zadanie2.1.exe
+D:\!Практика по программированию\praktika\Module1\zadanie6\bin\Debug\net8.0\zadanie2.1.deps.json
+D:\!Практика по программированию\praktika\Module1\zadanie6\bin\Debug\net8.0\zadanie2.1.runtimeconfig.json
+D:\!Практика по программированию\praktika\Module1\zadanie6\bin\Debug\net8.0\zadanie2.1.dll
+D:\!Практика по программированию\praktika\Module1\zadanie6\bin\Debug\net8.0\zadanie2.1.pdb
+D:\!Практика по программированию\praktika\Module1\zadanie6\obj\Debug\net8.0\zadanie2.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\!Практика по программированию\praktika\Module1\zadanie6\obj\Debug\net8.0\zadanie2.1.AssemblyInfoInputs.cache
+D:\!Практика по программированию\praktika\Module1\zadanie6\obj\Debug\net8.0\zadanie2.1.AssemblyInfo.cs
+D:\!Практика по программированию\praktika\Module1\zadanie6\obj\Debug\net8.0\zadanie2.1.csproj.CoreCompileInputs.cache
+D:\!Практика по программированию\praktika\Module1\zadanie6\obj\Debug\net8.0\zadanie2.1.sourcelink.json
+D:\!Практика по программированию\praktika\Module1\zadanie6\obj\Debug\net8.0\zadanie2.1.dll
+D:\!Практика по программированию\praktika\Module1\zadanie6\obj\Debug\net8.0\refint\zadanie2.1.dll
+D:\!Практика по программированию\praktika\Module1\zadanie6\obj\Debug\net8.0\zadanie2.1.pdb
+D:\!Практика по программированию\praktika\Module1\zadanie6\obj\Debug\net8.0\zadanie2.1.genruntimeconfig.cache
+D:\!Практика по программированию\praktika\Module1\zadanie6\obj\Debug\net8.0\ref\zadanie2.1.dll
