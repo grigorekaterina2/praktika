@@ -3,8 +3,6 @@ class Program // Класс
 {
     static void Main()
     {
-        Console.OutputEncoding = System.Text.Encoding.UTF8;
-
         Random random = new Random(); // Объект для генератора
         int targetNumber = random.Next(1, 101); // Переменная для хранения загаданного числа
         int userGuess = 0;  // Переменная для хранения ответа игрока
