@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-// Делегат это переменная, в которой лежит метод
+// Делегат 
 delegate void TaskAction(string title);
 
 
@@ -58,7 +58,7 @@ class Program // Главный класс
 
                     if (action == "1")
                     {
-                        tasks.Add(new TaskItem(title, Notify)); // Передача метода
+                        tasks.Add(new TaskItem(title, Notify)); // Добавление объекта в конец списка
                     }
                     else if (action == "2")
                     {

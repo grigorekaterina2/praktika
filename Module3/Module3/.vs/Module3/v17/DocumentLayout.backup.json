@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\!\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044E\\praktika\\Module3\\zadanie1\\",
+  "WorkspaceRootPath": "D:\\!\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044E\\praktika\\Module3\\Module3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B66DAF06-B770-47BB-8242-E2EE966F9738}|zadanie5\\zadanie5.csproj|d:\\!\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044E\\praktika\\module3\\zadanie1\\zadanie5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B66DAF06-B770-47BB-8242-E2EE966F9738}|zadanie5\\zadanie5.csproj|solutionrelative:zadanie5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84FA78D6-3DE4-4AD0-AFF1-30FCDE2E6F1A}|zadanie4\\zadanie4.csproj|d:\\!\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044E\\praktika\\module3\\zadanie1\\zadanie4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{84FA78D6-3DE4-4AD0-AFF1-30FCDE2E6F1A}|zadanie4\\zadanie4.csproj|d:\\!\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044E\\praktika\\module3\\module3\\zadanie4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84FA78D6-3DE4-4AD0-AFF1-30FCDE2E6F1A}|zadanie4\\zadanie4.csproj|solutionrelative:zadanie4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{414E82B4-F16B-487D-BBA8-FDAE159B6368}|zadanie3\\zadanie3.csproj|d:\\!\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044E\\praktika\\module3\\zadanie1\\zadanie3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FAA0B2A8-C010-4E19-8235-40A61866EB6A}|zadanie1\\zadanie1.csproj|d:\\!\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044E\\praktika\\module3\\module3\\zadanie1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAA0B2A8-C010-4E19-8235-40A61866EB6A}|zadanie1\\zadanie1.csproj|solutionrelative:zadanie1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B66DAF06-B770-47BB-8242-E2EE966F9738}|zadanie5\\zadanie5.csproj|d:\\!\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044E\\praktika\\module3\\module3\\zadanie5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B66DAF06-B770-47BB-8242-E2EE966F9738}|zadanie5\\zadanie5.csproj|solutionrelative:zadanie5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{414E82B4-F16B-487D-BBA8-FDAE159B6368}|zadanie3\\zadanie3.csproj|d:\\!\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044E\\praktika\\module3\\module3\\zadanie3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{414E82B4-F16B-487D-BBA8-FDAE159B6368}|zadanie3\\zadanie3.csproj|solutionrelative:zadanie3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9325DD2D-12A9-4DAB-85DF-58B04EDDC7E2}|zadanie2\\zadanie2.csproj|d:\\!\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044E\\praktika\\module3\\zadanie1\\zadanie2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9325DD2D-12A9-4DAB-85DF-58B04EDDC7E2}|zadanie2\\zadanie2.csproj|d:\\!\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044E\\praktika\\module3\\module3\\zadanie2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9325DD2D-12A9-4DAB-85DF-58B04EDDC7E2}|zadanie2\\zadanie2.csproj|solutionrelative:zadanie2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FAA0B2A8-C010-4E19-8235-40A61866EB6A}|zadanie1\\zadanie1.csproj|d:\\!\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044E\\praktika\\module3\\zadanie1\\zadanie1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FAA0B2A8-C010-4E19-8235-40A61866EB6A}|zadanie1\\zadanie1.csproj|solutionrelative:zadanie1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,40 +30,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\!\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044E\\praktika\\Module3\\zadanie1\\zadanie5\\Program.cs",
+              "DocumentMoniker": "D:\\!\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044E\\praktika\\Module3\\Module3\\zadanie5\\Program.cs",
               "RelativeDocumentMoniker": "zadanie5\\Program.cs",
-              "ToolTip": "D:\\!\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044E\\praktika\\Module3\\zadanie1\\zadanie5\\Program.cs",
+              "ToolTip": "D:\\!\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044E\\praktika\\Module3\\Module3\\zadanie5\\Program.cs",
               "RelativeToolTip": "zadanie5\\Program.cs",
-              "ViewState": "AgIAAGUAAAAAAAAAAAAwwIAAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAowIAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-05T07:25:07.075Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\!\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044E\\praktika\\Module3\\zadanie1\\zadanie4\\Program.cs",
+              "DocumentMoniker": "D:\\!\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044E\\praktika\\Module3\\Module3\\zadanie4\\Program.cs",
               "RelativeDocumentMoniker": "zadanie4\\Program.cs",
-              "ToolTip": "D:\\!\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044E\\praktika\\Module3\\zadanie1\\zadanie4\\Program.cs",
+              "ToolTip": "D:\\!\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044E\\praktika\\Module3\\Module3\\zadanie4\\Program.cs",
               "RelativeToolTip": "zadanie4\\Program.cs",
               "ViewState": "AgIAAEkAAAAAAAAAAAAwwEwAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-05T07:22:44.382Z"
+              "WhenOpened": "2026-10-05T07:22:44.382Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\!\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044E\\praktika\\Module3\\zadanie1\\zadanie3\\Program.cs",
+              "DocumentMoniker": "D:\\!\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044E\\praktika\\Module3\\Module3\\zadanie3\\Program.cs",
               "RelativeDocumentMoniker": "zadanie3\\Program.cs",
-              "ToolTip": "D:\\!\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044E\\praktika\\Module3\\zadanie1\\zadanie3\\Program.cs",
+              "ToolTip": "D:\\!\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044E\\praktika\\Module3\\Module3\\zadanie3\\Program.cs",
               "RelativeToolTip": "zadanie3\\Program.cs",
               "ViewState": "AgIAAEQAAAAAAAAAAAAwwF8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -71,11 +72,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\!\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044E\\praktika\\Module3\\zadanie1\\zadanie2\\Program.cs",
+              "DocumentMoniker": "D:\\!\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044E\\praktika\\Module3\\Module3\\zadanie2\\Program.cs",
               "RelativeDocumentMoniker": "zadanie2\\Program.cs",
-              "ToolTip": "D:\\!\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044E\\praktika\\Module3\\zadanie1\\zadanie2\\Program.cs",
+              "ToolTip": "D:\\!\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044E\\praktika\\Module3\\Module3\\zadanie2\\Program.cs",
               "RelativeToolTip": "zadanie2\\Program.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAQwBwAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -83,15 +84,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\!\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044E\\praktika\\Module3\\zadanie1\\zadanie1\\Program.cs",
+              "DocumentMoniker": "D:\\!\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044E\\praktika\\Module3\\Module3\\zadanie1\\Program.cs",
               "RelativeDocumentMoniker": "zadanie1\\Program.cs",
-              "ToolTip": "D:\\!\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044E\\praktika\\Module3\\zadanie1\\zadanie1\\Program.cs",
+              "ToolTip": "D:\\!\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044E\\praktika\\Module3\\Module3\\zadanie1\\Program.cs",
               "RelativeToolTip": "zadanie1\\Program.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAA9wEcAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-03T07:05:40.116Z"
+              "WhenOpened": "2026-10-03T07:05:40.116Z",
+              "EditorCaption": ""
             }
           ]
         }

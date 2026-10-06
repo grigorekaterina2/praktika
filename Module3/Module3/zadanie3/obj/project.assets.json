@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\!Практика по программированию\\praktika\\Module3\\zadanie1\\zadanie3\\zadanie3.csproj",
+      "projectUniqueName": "D:\\!Практика по программированию\\praktika\\Module3\\Module3\\zadanie3\\zadanie3.csproj",
       "projectName": "zadanie3",
-      "projectPath": "D:\\!Практика по программированию\\praktika\\Module3\\zadanie1\\zadanie3\\zadanie3.csproj",
+      "projectPath": "D:\\!Практика по программированию\\praktika\\Module3\\Module3\\zadanie3\\zadanie3.csproj",
       "packagesPath": "C:\\Users\\grigo\\.nuget\\packages\\",
-      "outputPath": "D:\\!Практика по программированию\\praktika\\Module3\\zadanie1\\zadanie3\\obj\\",
+      "outputPath": "D:\\!Практика по программированию\\praktika\\Module3\\Module3\\zadanie3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
