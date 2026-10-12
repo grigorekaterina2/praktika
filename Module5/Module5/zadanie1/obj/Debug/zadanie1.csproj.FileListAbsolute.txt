@@ -1,0 +1,11 @@
+D:\!Практика по программированию\praktika\Module5\Module5\zadanie1\obj\Debug\zadanie1.csproj.AssemblyReference.cache
+D:\!Практика по программированию\praktika\Module5\Module5\zadanie1\obj\Debug\PaintApp.Form1.resources
+D:\!Практика по программированию\praktika\Module5\Module5\zadanie1\obj\Debug\zadanie1.Properties.Resources.resources
+D:\!Практика по программированию\praktika\Module5\Module5\zadanie1\obj\Debug\zadanie1.csproj.GenerateResource.cache
+D:\!Практика по программированию\praktika\Module5\Module5\zadanie1\obj\Debug\zadanie1.csproj.CoreCompileInputs.cache
+D:\!Практика по программированию\praktika\Module5\Module5\zadanie1\bin\Debug\zadanie1.exe.config
+D:\!Практика по программированию\praktika\Module5\Module5\zadanie1\bin\Debug\zadanie1.exe
+D:\!Практика по программированию\praktika\Module5\Module5\zadanie1\bin\Debug\zadanie1.pdb
+D:\!Практика по программированию\praktika\Module5\Module5\zadanie1\obj\Debug\zadanie1.exe
+D:\!Практика по программированию\praktika\Module5\Module5\zadanie1\obj\Debug\zadanie1.pdb
+D:\!Практика по программированию\praktika\Module5\Module5\zadanie1\obj\Debug\zadanie1.exe.config

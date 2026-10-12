@@ -1,0 +1,11 @@
+D:\!Практика по программированию\praktika\Module5\Module5\zadanie2\obj\Debug\zadanie2.csproj.AssemblyReference.cache
+D:\!Практика по программированию\praktika\Module5\Module5\zadanie2\obj\Debug\zadanie2.Properties.Resources.resources
+D:\!Практика по программированию\praktika\Module5\Module5\zadanie2\obj\Debug\zadanie2.csproj.GenerateResource.cache
+D:\!Практика по программированию\praktika\Module5\Module5\zadanie2\obj\Debug\zadanie2.csproj.CoreCompileInputs.cache
+D:\!Практика по программированию\praktika\Module5\Module5\zadanie2\bin\Debug\zadanie2.exe.config
+D:\!Практика по программированию\praktika\Module5\Module5\zadanie2\bin\Debug\zadanie2.exe
+D:\!Практика по программированию\praktika\Module5\Module5\zadanie2\bin\Debug\zadanie2.pdb
+D:\!Практика по программированию\praktika\Module5\Module5\zadanie2\obj\Debug\zadanie2.exe
+D:\!Практика по программированию\praktika\Module5\Module5\zadanie2\obj\Debug\zadanie2.pdb
+D:\!Практика по программированию\praktika\Module5\Module5\zadanie2\obj\Debug\zadanie2.exe.config
+D:\!Практика по программированию\praktika\Module5\Module5\zadanie2\obj\Debug\TextEditor.Form1.resources
