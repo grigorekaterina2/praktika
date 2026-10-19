@@ -1,0 +1,210 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\!\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044E\\praktika\\Module7\\\u041A\u043E\u0434 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\KalahGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07CAF2AF-CCC3-4DA7-B6E1-5BF58B545421}|KalahGame.csproj|d:\\!\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044E\\praktika\\module7\\\u043A\u043E\u0434 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\kalahgame\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07CAF2AF-CCC3-4DA7-B6E1-5BF58B545421}|KalahGame.csproj|solutionrelative:formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07CAF2AF-CCC3-4DA7-B6E1-5BF58B545421}|KalahGame.csproj|D:\\!\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044E\\praktika\\Module7\\\u041A\u043E\u0434 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\KalahGame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07CAF2AF-CCC3-4DA7-B6E1-5BF58B545421}|KalahGame.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07CAF2AF-CCC3-4DA7-B6E1-5BF58B545421}|KalahGame.csproj|D:\\!\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044E\\praktika\\Module7\\\u041A\u043E\u0434 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\KalahGame\\formgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07CAF2AF-CCC3-4DA7-B6E1-5BF58B545421}|KalahGame.csproj|solutionrelative:formgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07CAF2AF-CCC3-4DA7-B6E1-5BF58B545421}|KalahGame.csproj|D:\\!\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044E\\praktika\\Module7\\\u041A\u043E\u0434 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\KalahGame\\formgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07CAF2AF-CCC3-4DA7-B6E1-5BF58B545421}|KalahGame.csproj|solutionrelative:formgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07CAF2AF-CCC3-4DA7-B6E1-5BF58B545421}|KalahGame.csproj|D:\\!\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044E\\praktika\\Module7\\\u041A\u043E\u0434 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\KalahGame\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07CAF2AF-CCC3-4DA7-B6E1-5BF58B545421}|KalahGame.csproj|solutionrelative:formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07CAF2AF-CCC3-4DA7-B6E1-5BF58B545421}|KalahGame.csproj|D:\\!\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044E\\praktika\\Module7\\\u041A\u043E\u0434 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\KalahGame\\formsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07CAF2AF-CCC3-4DA7-B6E1-5BF58B545421}|KalahGame.csproj|solutionrelative:formsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07CAF2AF-CCC3-4DA7-B6E1-5BF58B545421}|KalahGame.csproj|D:\\!\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044E\\praktika\\Module7\\\u041A\u043E\u0434 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\KalahGame\\formrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07CAF2AF-CCC3-4DA7-B6E1-5BF58B545421}|KalahGame.csproj|solutionrelative:formrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07CAF2AF-CCC3-4DA7-B6E1-5BF58B545421}|KalahGame.csproj|D:\\!\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044E\\praktika\\Module7\\\u041A\u043E\u0434 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\KalahGame\\formrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07CAF2AF-CCC3-4DA7-B6E1-5BF58B545421}|KalahGame.csproj|solutionrelative:formrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07CAF2AF-CCC3-4DA7-B6E1-5BF58B545421}|KalahGame.csproj|D:\\!\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044E\\praktika\\Module7\\\u041A\u043E\u0434 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\KalahGame\\formrules.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07CAF2AF-CCC3-4DA7-B6E1-5BF58B545421}|KalahGame.csproj|solutionrelative:formrules.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07CAF2AF-CCC3-4DA7-B6E1-5BF58B545421}|KalahGame.csproj|D:\\!\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044E\\praktika\\Module7\\\u041A\u043E\u0434 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\KalahGame\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{07CAF2AF-CCC3-4DA7-B6E1-5BF58B545421}|KalahGame.csproj|solutionrelative:properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07CAF2AF-CCC3-4DA7-B6E1-5BF58B545421}|KalahGame.csproj|D:\\!\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044E\\praktika\\Module7\\\u041A\u043E\u0434 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\KalahGame\\formsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07CAF2AF-CCC3-4DA7-B6E1-5BF58B545421}|KalahGame.csproj|solutionrelative:formsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07CAF2AF-CCC3-4DA7-B6E1-5BF58B545421}|KalahGame.csproj|D:\\!\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044E\\praktika\\Module7\\\u041A\u043E\u0434 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\KalahGame\\formmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07CAF2AF-CCC3-4DA7-B6E1-5BF58B545421}|KalahGame.csproj|solutionrelative:formmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormGame.cs",
+              "DocumentMoniker": "D:\\!\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044E\\praktika\\Module7\\\u041A\u043E\u0434 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\KalahGame\\FormGame.cs",
+              "RelativeDocumentMoniker": "FormGame.cs",
+              "ToolTip": "D:\\!\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044E\\praktika\\Module7\\\u041A\u043E\u0434 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\KalahGame\\FormGame.cs",
+              "RelativeToolTip": "FormGame.cs",
+              "ViewState": "AgIAADwBAAAAAAAAAAAuwIsBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T18:29:36.372Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormMenu.cs [Design]",
+              "DocumentMoniker": "D:\\!\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044E\\praktika\\Module7\\\u041A\u043E\u0434 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\KalahGame\\FormMenu.cs",
+              "RelativeDocumentMoniker": "FormMenu.cs",
+              "ToolTip": "D:\\!\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044E\\praktika\\Module7\\\u041A\u043E\u0434 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\KalahGame\\FormMenu.cs [Design]",
+              "RelativeToolTip": "FormMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T16:51:01.675Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormGame.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\!\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044E\\praktika\\Module7\\\u041A\u043E\u0434 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\KalahGame\\FormGame.cs",
+              "RelativeDocumentMoniker": "FormGame.cs",
+              "ToolTip": "D:\\!\u041E\u0410\u0418\u041F\\!\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\\u043A\u043E\u04341\\KalahGame\\FormGame.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\!\u041E\u0410\u0418\u041F\\!\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\\u043A\u043E\u04341\\KalahGame\\FormGame.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T16:52:07.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormMenu.cs",
+              "DocumentMoniker": "D:\\!\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044E\\praktika\\Module7\\\u041A\u043E\u0434 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\KalahGame\\FormMenu.cs",
+              "RelativeDocumentMoniker": "FormMenu.cs",
+              "ToolTip": "D:\\!\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044E\\praktika\\Module7\\\u041A\u043E\u0434 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\KalahGame\\FormMenu.cs",
+              "RelativeToolTip": "FormMenu.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAGcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T17:41:40.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\!\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044E\\praktika\\Module7\\\u041A\u043E\u0434 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\KalahGame\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\!\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044E\\praktika\\Module7\\\u041A\u043E\u0434 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\KalahGame\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T17:42:44.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormRules.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\!\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044E\\praktika\\Module7\\\u041A\u043E\u0434 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\KalahGame\\FormRules.cs",
+              "RelativeDocumentMoniker": "FormRules.cs",
+              "ToolTip": "D:\\!\u041E\u0410\u0418\u041F\\!\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\\u043A\u043E\u04341\\KalahGame\\FormRules.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\!\u041E\u0410\u0418\u041F\\!\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\\u043A\u043E\u04341\\KalahGame\\FormRules.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T10:18:24.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormSettings.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\!\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044E\\praktika\\Module7\\\u041A\u043E\u0434 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\KalahGame\\FormSettings.cs",
+              "RelativeDocumentMoniker": "FormSettings.cs",
+              "ToolTip": "D:\\!\u041E\u0410\u0418\u041F\\!\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\\u043A\u043E\u04341\\KalahGame\\FormSettings.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\!\u041E\u0410\u0418\u041F\\!\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\\u043A\u043E\u04341\\KalahGame\\FormSettings.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T16:51:43.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormRules.Designer.cs",
+              "DocumentMoniker": "D:\\!\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044E\\praktika\\Module7\\\u041A\u043E\u0434 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\KalahGame\\FormRules.Designer.cs",
+              "RelativeDocumentMoniker": "FormRules.Designer.cs",
+              "ToolTip": "D:\\!\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044E\\praktika\\Module7\\\u041A\u043E\u0434 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\KalahGame\\FormRules.Designer.cs",
+              "RelativeToolTip": "FormRules.Designer.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAnwEIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T20:45:23.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormRules.cs",
+              "DocumentMoniker": "D:\\!\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044E\\praktika\\Module7\\\u041A\u043E\u0434 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\KalahGame\\FormRules.cs",
+              "RelativeDocumentMoniker": "FormRules.cs",
+              "ToolTip": "D:\\!\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044E\\praktika\\Module7\\\u041A\u043E\u0434 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\KalahGame\\FormRules.cs",
+              "RelativeToolTip": "FormRules.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T12:19:20.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "D:\\!\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044E\\praktika\\Module7\\\u041A\u043E\u0434 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\KalahGame\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "Properties\\Settings.settings",
+              "ToolTip": "D:\\!\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044E\\praktika\\Module7\\\u041A\u043E\u0434 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\KalahGame\\Properties\\Settings.settings",
+              "RelativeToolTip": "Properties\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2026-06-18T18:20:47.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormSettings.cs",
+              "DocumentMoniker": "D:\\!\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044E\\praktika\\Module7\\\u041A\u043E\u0434 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\KalahGame\\FormSettings.cs",
+              "RelativeDocumentMoniker": "FormSettings.cs",
+              "ToolTip": "D:\\!\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044E\\praktika\\Module7\\\u041A\u043E\u0434 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\KalahGame\\FormSettings.cs",
+              "RelativeToolTip": "FormSettings.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAswBQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T07:38:11.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormMenu.Designer.cs",
+              "DocumentMoniker": "D:\\!\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044E\\praktika\\Module7\\\u041A\u043E\u0434 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\KalahGame\\FormMenu.Designer.cs",
+              "RelativeDocumentMoniker": "FormMenu.Designer.cs",
+              "ToolTip": "D:\\!\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044E\\praktika\\Module7\\\u041A\u043E\u0434 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\KalahGame\\FormMenu.Designer.cs",
+              "RelativeToolTip": "FormMenu.Designer.cs",
+              "ViewState": "AgIAACQBAAAAAAAAAAAAADsBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T05:46:37.842Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

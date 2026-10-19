@@ -1,0 +1,14 @@
+D:\!ОАИП\!Курсовой проект\код1\KalahGame\bin\Debug\KalahGame.exe.config
+D:\!ОАИП\!Курсовой проект\код1\KalahGame\bin\Debug\KalahGame.exe
+D:\!ОАИП\!Курсовой проект\код1\KalahGame\bin\Debug\KalahGame.pdb
+D:\!ОАИП\!Курсовой проект\код1\KalahGame\obj\Debug\KalahGame.csproj.AssemblyReference.cache
+D:\!ОАИП\!Курсовой проект\код1\KalahGame\obj\Debug\KalahGame.FormGame.resources
+D:\!ОАИП\!Курсовой проект\код1\KalahGame\obj\Debug\KalahGame.FormMenu.resources
+D:\!ОАИП\!Курсовой проект\код1\KalahGame\obj\Debug\KalahGame.FormRules.resources
+D:\!ОАИП\!Курсовой проект\код1\KalahGame\obj\Debug\KalahGame.FormSettings.resources
+D:\!ОАИП\!Курсовой проект\код1\KalahGame\obj\Debug\KalahGame.Properties.Resources.resources
+D:\!ОАИП\!Курсовой проект\код1\KalahGame\obj\Debug\KalahGame.csproj.GenerateResource.cache
+D:\!ОАИП\!Курсовой проект\код1\KalahGame\obj\Debug\KalahGame.csproj.CoreCompileInputs.cache
+D:\!ОАИП\!Курсовой проект\код1\KalahGame\obj\Debug\KalahGame.exe
+D:\!ОАИП\!Курсовой проект\код1\KalahGame\obj\Debug\KalahGame.pdb
+D:\!ОАИП\!Курсовой проект\код1\KalahGame\obj\Debug\KalahGame.exe.config
