@@ -1,0 +1,15 @@
+D:\!Практика по программированию\praktika\Module8\zadanie1\zadanie1\bin\Debug\zadanie1.exe.config
+D:\!Практика по программированию\praktika\Module8\zadanie1\zadanie1\bin\Debug\zadanie1.exe
+D:\!Практика по программированию\praktika\Module8\zadanie1\zadanie1\bin\Debug\zadanie1.pdb
+D:\!Практика по программированию\praktika\Module8\zadanie1\zadanie1\obj\Debug\zadanie1.csproj.AssemblyReference.cache
+D:\!Практика по программированию\praktika\Module8\zadanie1\zadanie1\obj\Debug\MainWindow.baml
+D:\!Практика по программированию\praktika\Module8\zadanie1\zadanie1\obj\Debug\MainWindow.g.cs
+D:\!Практика по программированию\praktika\Module8\zadanie1\zadanie1\obj\Debug\App.g.cs
+D:\!Практика по программированию\praktika\Module8\zadanie1\zadanie1\obj\Debug\zadanie1_MarkupCompile.cache
+D:\!Практика по программированию\praktika\Module8\zadanie1\zadanie1\obj\Debug\zadanie1.g.resources
+D:\!Практика по программированию\praktika\Module8\zadanie1\zadanie1\obj\Debug\zadanie1.Properties.Resources.resources
+D:\!Практика по программированию\praktika\Module8\zadanie1\zadanie1\obj\Debug\zadanie1.csproj.GenerateResource.cache
+D:\!Практика по программированию\praktika\Module8\zadanie1\zadanie1\obj\Debug\zadanie1.csproj.CoreCompileInputs.cache
+D:\!Практика по программированию\praktika\Module8\zadanie1\zadanie1\obj\Debug\zadanie1.exe
+D:\!Практика по программированию\praktika\Module8\zadanie1\zadanie1\obj\Debug\zadanie1.pdb
+D:\!Практика по программированию\praktika\Module8\zadanie1\zadanie1\obj\Debug\zadanie1.exe.config
